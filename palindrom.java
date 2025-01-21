@@ -16,3 +16,4 @@ public class palindrom {
  else
       System.out.println("It is Not Palndrom no.");
 }
+	
