@@ -8,9 +8,18 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tejas3540/Java-DSA-code/tree/master/0014-longest-common-prefix) |
 | [0415-add-strings](https://github.com/tejas3540/Java-DSA-code/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/tejas3540/Java-DSA-code/tree/master/0415-add-strings) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tejas3540/Java-DSA-code/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tejas3540/Java-DSA-code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
