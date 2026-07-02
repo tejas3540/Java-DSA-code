@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejas3540/Java-DSA-code/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tejas3540/Java-DSA-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/tejas3540/Java-DSA-code/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/tejas3540/Java-DSA-code/tree/master/0415-add-strings) |
 ## Simulation
@@ -37,4 +38,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tejas3540/Java-DSA-code/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tejas3540/Java-DSA-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tejas3540/Java-DSA-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
