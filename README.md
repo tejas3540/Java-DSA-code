@@ -23,8 +23,13 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejas3540/Java-DSA-code/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/tejas3540/Java-DSA-code/tree/master/0386-lexicographical-numbers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/tejas3540/Java-DSA-code/tree/master/0151-reverse-words-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/tejas3540/Java-DSA-code/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
