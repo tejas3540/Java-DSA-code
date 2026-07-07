@@ -26,6 +26,7 @@
 | [0046-permutations](https://github.com/tejas3540/Java-DSA-code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tejas3540/Java-DSA-code/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/tejas3540/Java-DSA-code/tree/master/0079-word-search) |
+| [0169-majority-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/tejas3540/Java-DSA-code/tree/master/0200-number-of-islands) |
 ## Trie
 |  |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tejas3540/Java-DSA-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -71,4 +73,16 @@
 | ------- |
 | [0079-word-search](https://github.com/tejas3540/Java-DSA-code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tejas3540/Java-DSA-code/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
