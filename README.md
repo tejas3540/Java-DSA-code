@@ -29,6 +29,7 @@
 | [0079-word-search](https://github.com/tejas3540/Java-DSA-code/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/tejas3540/Java-DSA-code/tree/master/0200-number-of-islands) |
+| [0645-set-mismatch](https://github.com/tejas3540/Java-DSA-code/tree/master/0645-set-mismatch) |
 ## Trie
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tejas3540/Java-DSA-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/tejas3540/Java-DSA-code/tree/master/0645-set-mismatch) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,8 +86,13 @@
 | ------- |
 | [0075-sort-colors](https://github.com/tejas3540/Java-DSA-code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/tejas3540/Java-DSA-code/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/tejas3540/Java-DSA-code/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
