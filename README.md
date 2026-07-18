@@ -27,6 +27,7 @@
 | [0051-n-queens](https://github.com/tejas3540/Java-DSA-code/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/tejas3540/Java-DSA-code/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/tejas3540/Java-DSA-code/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/tejas3540/Java-DSA-code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejas3540/Java-DSA-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/tejas3540/Java-DSA-code/tree/master/0200-number-of-islands) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tejas3540/Java-DSA-code/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tejas3540/Java-DSA-code/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/tejas3540/Java-DSA-code/tree/master/0151-reverse-words-in-a-string) |
 ## Depth-First Search
 |  |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tejas3540/Java-DSA-code/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tejas3540/Java-DSA-code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/tejas3540/Java-DSA-code/tree/master/0645-set-mismatch) |
 ## Counting
