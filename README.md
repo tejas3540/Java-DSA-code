@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejas3540/Java-DSA-code/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejas3540/Java-DSA-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/tejas3540/Java-DSA-code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/tejas3540/Java-DSA-code/tree/master/0046-permutations) |
@@ -42,6 +43,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejas3540/Java-DSA-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/tejas3540/Java-DSA-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejas3540/Java-DSA-code/tree/master/0088-merge-sorted-array) |
