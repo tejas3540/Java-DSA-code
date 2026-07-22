@@ -35,6 +35,7 @@
 | [0200-number-of-islands](https://github.com/tejas3540/Java-DSA-code/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/tejas3540/Java-DSA-code/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/tejas3540/Java-DSA-code/tree/master/0645-set-mismatch) |
+| [1480-running-sum-of-1d-array](https://github.com/tejas3540/Java-DSA-code/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
 | ------- |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejas3540/Java-DSA-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/tejas3540/Java-DSA-code/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
