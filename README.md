@@ -6,6 +6,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/tejas3540/Java-DSA-code/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/tejas3540/Java-DSA-code/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/tejas3540/Java-DSA-code/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -111,9 +112,18 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejas3540/Java-DSA-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/tejas3540/Java-DSA-code/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/tejas3540/Java-DSA-code/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/tejas3540/Java-DSA-code/tree/master/1480-running-sum-of-1d-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tejas3540/Java-DSA-code/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tejas3540/Java-DSA-code/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
