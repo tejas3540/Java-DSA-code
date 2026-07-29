@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/tejas3540/Java-DSA-code/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/tejas3540/Java-DSA-code/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/tejas3540/Java-DSA-code/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/tejas3540/Java-DSA-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/tejas3540/Java-DSA-code/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
@@ -52,6 +53,7 @@
 | [0088-merge-sorted-array](https://github.com/tejas3540/Java-DSA-code/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/tejas3540/Java-DSA-code/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/tejas3540/Java-DSA-code/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/tejas3540/Java-DSA-code/tree/master/0977-squares-of-a-sorted-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0088-merge-sorted-array](https://github.com/tejas3540/Java-DSA-code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/tejas3540/Java-DSA-code/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/tejas3540/Java-DSA-code/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
