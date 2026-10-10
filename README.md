@@ -28,6 +28,7 @@
 | [0039-combination-sum](https://github.com/tejas3540/Java-DSA-code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/tejas3540/Java-DSA-code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tejas3540/Java-DSA-code/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/tejas3540/Java-DSA-code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tejas3540/Java-DSA-code/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/tejas3540/Java-DSA-code/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/tejas3540/Java-DSA-code/tree/master/0088-merge-sorted-array) |
@@ -95,6 +96,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tejas3540/Java-DSA-code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tejas3540/Java-DSA-code/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -115,6 +117,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tejas3540/Java-DSA-code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/tejas3540/Java-DSA-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejas3540/Java-DSA-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/tejas3540/Java-DSA-code/tree/master/0509-fibonacci-number) |
