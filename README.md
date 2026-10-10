@@ -139,4 +139,12 @@
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/tejas3540/Java-DSA-code/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/tejas3540/Java-DSA-code/tree/master/0182-duplicate-emails) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tejas3540/Java-DSA-code/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tejas3540/Java-DSA-code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
