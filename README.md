@@ -65,6 +65,7 @@
 | [0079-word-search](https://github.com/tejas3540/Java-DSA-code/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/tejas3540/Java-DSA-code/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/tejas3540/Java-DSA-code/tree/master/0386-lexicographical-numbers) |
 ## Binary Search
@@ -171,6 +172,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/tejas3540/Java-DSA-code/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/tejas3540/Java-DSA-code/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -191,9 +193,11 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
