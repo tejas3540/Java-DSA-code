@@ -69,6 +69,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/tejas3540/Java-DSA-code/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/tejas3540/Java-DSA-code/tree/master/0386-lexicographical-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/tejas3540/Java-DSA-code/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejas3540/Java-DSA-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/tejas3540/Java-DSA-code/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -204,4 +206,9 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejas3540/Java-DSA-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tejas3540/Java-DSA-code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/tejas3540/Java-DSA-code/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/tejas3540/Java-DSA-code/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
