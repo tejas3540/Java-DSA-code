@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejas3540/Java-DSA-code/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/tejas3540/Java-DSA-code/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/tejas3540/Java-DSA-code/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/tejas3540/Java-DSA-code/tree/master/0509-fibonacci-number) |
@@ -140,6 +141,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejas3540/Java-DSA-code/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/tejas3540/Java-DSA-code/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -165,6 +167,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejas3540/Java-DSA-code/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/tejas3540/Java-DSA-code/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
