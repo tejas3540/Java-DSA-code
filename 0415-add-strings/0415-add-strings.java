@@ -1,46 +1,25 @@
 class Solution {
     public String addStrings(String num1, String num2) {
-      int i = num1.length() - 1;
-    int j = num2.length() - 1;
-    int carry = 0;
-    String ans = "";
+        StringBuilder result = new StringBuilder();
+        int i = num1.length() - 1;
+        int j = num2.length() - 1;
+        int carry = 0;
 
-    while (i >= 0 && j >= 0) {
-        int d1 = num1.charAt(i) - '0';
-        int d2 = num2.charAt(j) - '0';
+        while (i >= 0 || j >= 0 || carry > 0) {
+            int sum = carry;
 
-        int ld = (d1 + d2 + carry) % 10;
-        ans = ld + ans;
-        carry = (d1 + d2 + carry) / 10;
+            if (i >= 0) {
+                sum += num1.charAt(i--) - '0';
+            }
 
-        i--;
-        j--;
+            if (j >= 0) {
+                sum += num2.charAt(j--) - '0';
+            }
+
+            result.append(sum % 10);
+            carry = sum / 10;
+        }
+
+        return result.reverse().toString();
     }
-
-    while (i >= 0) {
-        int d1 = num1.charAt(i) - '0';
-
-        int ld = (d1 + carry) % 10;
-        ans = ld + ans;
-        carry = (d1 + carry) / 10;
-
-        i--;
-    }
-
-    while (j >= 0) {
-        int d2 = num2.charAt(j) - '0';
-
-        int ld = (d2 + carry) % 10;
-        ans = ld + ans;
-        carry = (d2 + carry) / 10;
-
-        j--;
-    }
-
-    if (carry > 0)
-        ans = carry + ans;
-
-    return ans;
 }
-
-    }
