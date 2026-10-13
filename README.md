@@ -40,6 +40,7 @@
 | [0645-set-mismatch](https://github.com/tejas3540/Java-DSA-code/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/tejas3540/Java-DSA-code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tejas3540/Java-DSA-code/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/tejas3540/Java-DSA-code/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejas3540/Java-DSA-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/tejas3540/Java-DSA-code/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
@@ -163,4 +164,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tejas3540/Java-DSA-code/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/tejas3540/Java-DSA-code/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/tejas3540/Java-DSA-code/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
