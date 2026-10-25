@@ -1,4 +1,6 @@
 # Java-DSA-code
+
+A collection of Java solutions to data structures and algorithms problems, with LeetCode topics organized below.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
