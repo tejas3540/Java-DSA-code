@@ -2,26 +2,25 @@ import java.util.*;
 
 class Solution {
     public List<List<Integer>> generate(int numRows) {
+        List<List<Integer>> triangle = new ArrayList<>();
 
-        List<List<Integer>> result = new ArrayList<>();
+        for (int rowIndex = 0; rowIndex < numRows; rowIndex++) {
+            List<Integer> row = new ArrayList<>(rowIndex + 1);
+            row.add(1);
 
-        for (int i = 0; i < numRows; i++) {
+            if (rowIndex > 0) {
+                List<Integer> previous = triangle.get(rowIndex - 1);
 
-            List<Integer> row = new ArrayList<>();
-
-            for (int j = 0; j <= i; j++) {
-
-                if (j == 0 || j == i) {
-                    row.add(1);
-                } else {
-                    row.add(result.get(i - 1).get(j - 1)
-                          + result.get(i - 1).get(j));
+                for (int col = 1; col < rowIndex; col++) {
+                    row.add(previous.get(col - 1) + previous.get(col));
                 }
+
+                row.add(1);
             }
 
-            result.add(row);
+            triangle.add(row);
         }
 
-        return result;
+        return triangle;
     }
 }
